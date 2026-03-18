@@ -13,3 +13,4 @@ __pycache__/
 data/
 *.csv
 
+003_SARIMAX_baseline.ipynb
